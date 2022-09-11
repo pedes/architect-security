@@ -36,5 +36,16 @@ Measure code-related metrics
 * Technical debt, including cohesion, modularity
 
 
+To define security, it has become common to use Confidentiality, Integrity and Availability, also known as the CIA triad.
+
+Authentication usually performed with something that you know, you have and you are (like biometrics/fingerprints)
+
+Identify
+- Risks
+- Vulnerabilities
+- Likelihood
+- Threats
+
+
 ## References
 - https://www.cisa.gov/free-cybersecurity-services-and-tools
