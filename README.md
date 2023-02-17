@@ -86,6 +86,18 @@ Here are some examples that further explain the concept of defense in depth:
     Perimeter: Controls that protect against unauthorized access to the network. This level includes the use of technologies such as gateway firewalls, honeypots, malware analysis and secure demilitarized zones (DMZs).
     Physical: Controls that provide a physical barrier, such as locks, walls or access control.
     Policies, procedures and awareness: Administrative controls that reduce insider threats (intentional and unintentional) and identify risks as soon as they appear. 
+    
+
+Top 10 tips for a secure SDLC (shift-left):
+- Measure time spent for issues remediation
+- Identify performance bottlenecks, pain points between processes, people and tools.
+- Make small incremental changes
+- Automate scans and the most useful/common processes.
+- Update and improve workflows
+- Demonstrate compliance, make sure there's consistency across temas and environments.
+- Generate security reports, leverage tools like SAST and DAST.
+- Empower the teams with security dashboards, and AI or assisted tools to work smarter towards security.
+- Streamline the toolchain, reduce/ditch the toolchain.
 
 
 
